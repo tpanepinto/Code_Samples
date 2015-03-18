@@ -1,0 +1,1 @@
+For the last 10 Points I have end caps on my objects and I also use triangle strips. 

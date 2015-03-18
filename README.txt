@@ -1,0 +1,1 @@
+This repository contains examples of code that I have worked on for class and for personal reasons. 

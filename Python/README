@@ -1,0 +1,8 @@
+profileCodeGen.py
+*A smal VB code generator that made my life easier
+
+dns.py
+*Does a simple dns lookup for a source address
+
+SMTP_Client.py
+*Simple SMTP client that takes in a to/from address, subject and body and sends it via SMTP to a Mail server 
