@@ -11,3 +11,6 @@ Contains random Python scripts I have written.
 
 SML NJ:
 Contains files I made for a class that are written in SML NJ.
+
+Java:
+Contains more “Advanced” java programs from my Spring semester of junior year.
